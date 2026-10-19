@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/Kludex/uvicorn-worker/commit/cd29cc6447cff3abc968e930023dc97e5e5080f9",
       "git:hexsha": "cd29cc6447cff3abc968e930023dc97e5e5080f9",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.4.0",
+      "repolex:parsedAt": "2026-10-19T13:36:27.190002+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Kludex/uvicorn-worker/commit/38eae61dc024f0e118c4cb76252666aee508a1e8",
