@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kludex",
+  "repo": "uvicorn-worker",
+  "versions": [
+    {
+      "commit": "cd29cc6447cff3abc968e930023dc97e5e5080f9",
+      "parsed_at": "2026-10-19T13:34:34.185571+00:00",
+      "tag": "0.4.0",
+      "filetree": "filetree/cd29cc6447cff3abc968e930023dc97e5e5080f9.nq.gz",
+      "blobs": [
+        "blob/8ff3584f9d7dbce62a47fbed1bd107509bd1d7cd.nq.gz",
+        "blob/c4fc73181745a5dc327dee45a77b9d3205a3796f.nq.gz",
+        "blob/21259099ac7c32f4fec6d23c934617b546ecafd9.nq.gz",
+        "blob/01f725981abad30a01b8fcdfe46219b950afbd4b.nq.gz",
+        "blob/9eb2e848f775a343435ea84177475f9b9057537a.nq.gz",
+        "blob/668fc0feb11b02e7d863270595717847b549b8ca.nq.gz",
+        "blob/612d62898a54f3b071baf1b4a92252328549e6c0.nq.gz",
+        "blob/595829bbd01e92c4a31818d73885870bd484356f.nq.gz",
+        "blob/4fdf27640a5b4e1c3ac1d136be9d59e554ac728e.nq.gz",
+        "blob/e611d38394a267b1405dce0ce5207f6d7d6ef653.nq.gz",
+        "blob/2e5813738009b79ca30ceffd6b6ec1402f46cb47.nq.gz",
+        "blob/10a33521e039bb075de113b091f838418dbc7e80.nq.gz",
+        "blob/660ac8e5af25d65f185077e3a02466ffc819550c.nq.gz",
+        "blob/514989628bde642e4bdd26f96587def94f334135.nq.gz",
+        "blob/dd6a0667eb3c3a97328c87f011ad1ebd44c30741.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/950ac78926628c84bc5fb5d40a0983d8f670f2ec.nq.gz",
+        "blob/8535696a3fa7506b1b4c6b927557c788b876f4f4.nq.gz",
+        "blob/edd300997c861fb10aa968dad9590df20453b7af.nq.gz",
+        "blob/f58ee89fc75119dbf00c70f9dfd9258b53f46a05.nq.gz",
+        "blob/5244cda7e8aaf0c30b4774b7207fad6e7d1cd1c7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
