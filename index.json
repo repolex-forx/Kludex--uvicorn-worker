@@ -1,0 +1,11 @@
+{
+  "org": "Kludex",
+  "repo": "uvicorn-worker",
+  "versions": [
+    {
+      "commit": "cd29cc6447cff3abc968e930023dc97e5e5080f9",
+      "tag": "0.4.0",
+      "parsed_at": "2026-10-19T13:36:27.190533+00:00"
+    }
+  ]
+}
